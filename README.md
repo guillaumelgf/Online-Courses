@@ -40,32 +40,32 @@ This is a very  detailed online course which deals with different area of Deep L
 It is organized as follow:
 
 * Course 1 - Neural Networks and Deep Learning
-	* [Week 2 - EX 1 - Logistic Regression with a Neural Network mindset]()
-	* [Week 3 - EX 1 - Planar data classification with one hidden layer]()
-	* [Week 4 - EX 1 - Building your Deep Neural Network - Step by Step]()
-	* [Week 4 - EX 2 - Deep Neural Network - Application]()
+	* [Week 2 - EX 1 - Logistic Regression with a Neural Network mindset](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%202%20-%20Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
+	* [Week 3 - EX 1 - Planar data classification with one hidden layer](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%203%20-%20Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
+	* [Week 4 - EX 1 - Building your Deep Neural Network - Step by Step](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%204.1%20-%20Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
+	* [Week 4 - EX 2 - Deep Neural Network - Application](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%204.2%20-%20Deep%20Neural%20Network%20-%20Application.ipynb)
 * Course 2 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-	* [Week 1 - EX 1 - Initialization]()
-	* [Week 1 - EX 2 - Regularization]()
-	* [Week 1 - EX 3 - Gradient Checking]()
-	* [Week 2 - EX 1 - Optimization methods]()
-	* [Week 3 - EX 1 - Tensorflow Tutorial]()
+	* [Week 1 - EX 1 - Initialization](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201.1%20-%20Initialization.ipynb)
+	* [Week 1 - EX 2 - Regularization](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201.2%20-%20Regularization.ipynb)
+	* [Week 1 - EX 3 - Gradient Checking](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%201.3%20-%20Gradient%20Checking.ipynb)
+	* [Week 2 - EX 1 - Optimization methods](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%202%20-%20Optimization%20methods.ipynb)
+	* [Week 3 - EX 1 - Tensorflow Tutorial](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week%203%20-%20Tensorflow%20Tutorial.ipynb)
 * Course 3 - Structuring Machine Learning Projects
 	* Week 1 - ML Strategy (1)
 	* Week 2 - ML Strategy (2)
 * Course 4 - Convolutional Neural Networks
-	* [Week 1 - EX 1 - Convolutional model - Step by step]()
-	* [Week 1 - EX 2 - Convolutional model - Application]()
-	* [Week 2 - EX 1 - Keras - Tutorial - Happy House]()
-	*  [Week 2 - EX 2 - Residual Networks]()
+	* [Week 1 - EX 1 - Convolutional model - Step by step](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%204%20-%20Convolutional%20Neural%20Networks/Week%201.1%20-%20Convolution%20model%20-%20Step%20by%20Step%20-%20v1.ipynb)
+	* [Week 1 - EX 2 - Convolutional model - Application](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%204%20-%20Convolutional%20Neural%20Networks/Week%201.2%20-%20Convolution%20model%20-%20Application%20-%20v1.ipynb)
+	*  [Week 2 - EX 1 - Residual Networks](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%204%20-%20Convolutional%20Neural%20Networks/Week%203%20-%20Keras%20-%20Tutorial%20-%20Happy%20House%20v1.ipynb)
+	* [Week 3 - EX 1 - Keras - Tutorial - Happy House](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%204%20-%20Convolutional%20Neural%20Networks/week%202%20-%20Residual%20Networks%20-%20v1.ipynb)
 * Course 5 - Sequence Models
-	* [Week 1 - EX 1 - Building a Recurrent Neural Network - Step by Step]()
-	* [Week 1 - EX 2 - Dinosaurus Island -- Character level language model final]()
-	* [Week 1 - EX 3 - Improvise a Jazz Solo with an LSTM Network]()
-	* [Week 2 - EX 1 - Operations on word vectors]()
-	* [Week 2 - EX 2 -Emojify]()
-	* [Week 2 - EX 1 - Neural machine translation with attention]()
-	* [Week 2 - EX 2 -Trigger word detection]()
+	* [Week 1 - EX 1 - Building a Recurrent Neural Network - Step by Step](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%205%20-%20Sequence%20Models/Week%201.1%20-%20Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
+	* [Week 1 - EX 2 - Dinosaurus Island -- Character level language model final](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%205%20-%20Sequence%20Models/Week%201.2%20-%20Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
+	* [Week 1 - EX 3 - Improvise a Jazz Solo with an LSTM Network](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%205%20-%20Sequence%20Models/Week%201.3%20-%20Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v1.ipynb)
+	* [Week 2 - EX 1 - Operations on word vectors](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%205%20-%20Sequence%20Models/Week%202.1%20-%20Operations%20on%20word%20vectors%20-%20v2.ipynb)
+	* [Week 2 - EX 2 -Emojify](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%205%20-%20Sequence%20Models/Week%202.2%20-%20Emojify%20-%20v2.ipynb)
+	* [Week 3 - EX 1 - Neural machine translation with attention](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%205%20-%20Sequence%20Models/Week%203.1%20-%20Neural%20machine%20translation%20with%20attention%20-%20v2.ipynb)
+	* [Week 3 - EX 2 -Trigger word detection](https://github.com/guillaumelgf/Online-Courses/blob/master/deeplearning.ai/Course%205%20-%20Sequence%20Models/Week%203.2%20-%20Trigger%20word%20detection%20-%20v1.ipynb)
 
 The exercices were made using Python and Jupyter Notebooks.
 
